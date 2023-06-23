@@ -1,0 +1,7 @@
+python.org
+pypi.org
+docs.python.org
+peps.python.org
+facebook.com
+twitter.com
+devpapi.io
